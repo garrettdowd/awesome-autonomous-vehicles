@@ -306,6 +306,7 @@ sensors for odometry collected using a Segway robot.
 1. [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) A large dataset of German traffic sign recogniton data (GTSRB) with more than 40 classes in 50k images and detection data (GTSDB) with 900 image annotations.
 1. [Swedish Traffic Sign Dataset](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) A dataset with traffic signs recorded on 350 km of Swedish roads, consisting of 20k+ images with 20% of annotations.
 1. [Berkely Deep Drive](https://bdd-data.berkeley.edu/) 1,100 hours of video with GPS and IMU metadata
+1. [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) 10 minutes of 30Hz video filmed on a moving vehicle with object class semantic labels (32), complete with metadata at 1Hz and some at 15Hz. 
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
