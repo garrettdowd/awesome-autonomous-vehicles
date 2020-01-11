@@ -297,17 +297,17 @@ sensors for odometry collected using a Segway robot.
 1. [Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at/) -  a list of frequently used computer vision datasets.
 1. [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) - a large dataset with 10000+ traffic sign annotations, thousands of physically distinct traffic signs. 4 video sequences recorded with 8 high resolution cameras mounted on a van, summing more than 3 hours, with traffic sign annotations, camera calibrations and poses. About 16000 background images. The material is captured in Belgium, in urban environments from Flanders region, by GeoAutomation. 
 1. [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) - traffic sign, vehicles detection, traffic lights, trajectory patterns.
-1. [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) It was recorded using omni-directional stereo cameras during one year in Colorado, USA. [paper](https://arxiv.org/abs/1704.05215)
-1. [Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) Semi-automated method for labelling lane instances. 24,000 image set available. [paper](https://arxiv.org/pdf/1807.01347.pdf)
-1. [Foggy Zurich Dataset](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) Curriculum Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding. 3.8k High Quality Foggy images in and around Zurich. [paper](https://arxiv.org/abs/1901.01415)
-1. [SullyChen AutoPilot Dataset](https://github.com/SullyChen/Autopilot-TensorFlow) Dataset collected by SullyChen in and around California. 
-1. [Waymo Training and Validation Data](https://waymo.com/open) One terabyte of data with 3D and 2D labels.
-1. [Intel's dataset for AD conditions in India](https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/#gs.28pnw5) A dataset for Autonomous Driving conditions in India with segmented annotations (10k). (by Intel & IIIT Hyderabad).
-1. [nuScenes Dataset](https://www.nuscenes.org/) A large dataset with 1,400,000 images and 390,000 lidar sweeps from Boston and Singapore. Provides manually generated 3D bounding boxes for 23 object classes.
-1. [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) A large dataset of German traffic sign recogniton data (GTSRB) with more than 40 classes in 50k images and detection data (GTSDB) with 900 image annotations.
-1. [Swedish Traffic Sign Dataset](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) A dataset with traffic signs recorded on 350 km of Swedish roads, consisting of 20k+ images with 20% of annotations.
-1. [Berkely Deep Drive](https://bdd-data.berkeley.edu/) 1,100 hours of video with GPS and IMU metadata
-1. [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) 10 minutes of 30Hz video filmed on a moving vehicle with object class semantic labels (32), complete with metadata at 1Hz and some at 15Hz. 
+1. [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) - It was recorded using omni-directional stereo cameras during one year in Colorado, USA. [paper](https://arxiv.org/abs/1704.05215)
+1. [Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) - Semi-automated method for labelling lane instances. 24,000 image set available. [paper](https://arxiv.org/pdf/1807.01347.pdf)
+1. [Foggy Zurich Dataset](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) - Curriculum Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding. 3.8k High Quality Foggy images in and around Zurich. [paper](https://arxiv.org/abs/1901.01415)
+1. [SullyChen AutoPilot Dataset](https://github.com/SullyChen/Autopilot-TensorFlow) - Dataset collected by SullyChen in and around California. 
+1. [Waymo Training and Validation Data](https://waymo.com/open) - One terabyte of data with 3D and 2D labels.
+1. [Intel's dataset for AD conditions in India](https://www.intel.ai/iiit-hyderabad-and-intel-release-worlds-first-dataset-for-driving-in-india/#gs.28pnw5) - A dataset for Autonomous Driving conditions in India with segmented annotations (10k). (by Intel & IIIT Hyderabad).
+1. [nuScenes Dataset](https://www.nuscenes.org/) - A large dataset with 1,400,000 images and 390,000 lidar sweeps from Boston and Singapore. Provides manually generated 3D bounding boxes for 23 object classes.
+1. [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) - A large dataset of German traffic sign recogniton data (GTSRB) with more than 40 classes in 50k images and detection data (GTSDB) with 900 image annotations.
+1. [Swedish Traffic Sign Dataset](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) - A dataset with traffic signs recorded on 350 km of Swedish roads, consisting of 20k+ images with 20% of annotations.
+1. [Berkely Deep Drive](https://bdd-data.berkeley.edu/) - 1,100 hours of video with GPS and IMU metadata
+1. [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) - 10 minutes of 30Hz video filmed on a moving vehicle with object class semantic labels (32), complete with metadata at 1Hz and some at 15Hz. 
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
