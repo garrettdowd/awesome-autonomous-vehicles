@@ -95,6 +95,10 @@ By Topic Areas and Year of Publication / Submission
 1. **[2007]** _Map-Based Precision Vehicle Localization in Urban Environments_. [[ref](https://www.semanticscholar.org/paper/Map-Based-Precision-Vehicle-Localization-in-Urban-Levinson-Montemerlo/924f7268d592d327f97ad4e96f48ad774d982ef3)]
 
 #### Perception
+1. **[2019]** _FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation_. [[ref](https://arxiv.org/abs/1903.11816)]
+1. **[2018]** _Recent progress in semantic image segmentation_. [[ref](https://link.springer.com/article/10.1007%2Fs10462-018-9641-3)]
+1. **[2018]** _Improving Semantic Segmentation via Video Propagation and Label Relaxation_. [[ref](hhttps://arxiv.org/abs/1812.01593)]
+1. **[2018]** _Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation_. [[ref](https://arxiv.org/abs/1802.02611)]
 1. **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
 1. **[2016]** _Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?_. [[ref](https://arxiv.org/abs/1610.01983)]
 1. **[2016]** _Lost and Found: Detecting Small Road Hazards for Self-Driving Vehicles_. [[ref](https://arxiv.org/abs/1609.04653)]
