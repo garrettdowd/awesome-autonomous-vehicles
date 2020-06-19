@@ -95,6 +95,7 @@ By Topic Areas and Year of Publication / Submission
 1. **[2007]** _Map-Based Precision Vehicle Localization in Urban Environments_. [[ref](https://www.semanticscholar.org/paper/Map-Based-Precision-Vehicle-Localization-in-Urban-Levinson-Montemerlo/924f7268d592d327f97ad4e96f48ad774d982ef3)]
 
 #### Perception
+1. **[2019]** _Gated-SCNN: Gated Shape CNNs for Semantic Segmentation_. [[ref](https://arxiv.org/abs/1907.05740)]
 1. **[2019]** _FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation_. [[ref](https://arxiv.org/abs/1903.11816)]
 1. **[2018]** _Recent progress in semantic image segmentation_. [[ref](https://link.springer.com/article/10.1007%2Fs10462-018-9641-3)]
 1. **[2018]** _Improving Semantic Segmentation via Video Propagation and Label Relaxation_. [[ref](hhttps://arxiv.org/abs/1812.01593)]
